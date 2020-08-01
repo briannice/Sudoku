@@ -23,7 +23,7 @@ print("You are ready to go now.")
 print("You can fill positions by clicking on them and enter a number")
 print("You can solve the board by pressing 's'")
 print("You can clear the solved positions by pressing 'q'")
-print("You can clear all position by pressing 'c'")
+print("You can clear all positions by pressing 'c'")
 print("You can exit the program by pressing 'ESC'")
 print("")
 
